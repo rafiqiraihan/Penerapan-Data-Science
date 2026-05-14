@@ -2,8 +2,8 @@ imbalanced_learn==0.14.1
 joblib==1.5.2
 matplotlib
 numpy
-pandas==2.3.3
+pandas
 scikit-learn
 seaborn==0.13.2
 SQLAlchemy==2.0.49
-streamlit==1.45.1
+streamlit
