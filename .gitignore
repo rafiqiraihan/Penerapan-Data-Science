@@ -1,2 +1,7 @@
 venv/
 Proyek Pertama/submission.zip
+*.db
+*.zip
+*.pkl
+__pycache__/
+Data Pipeline Pyspark/

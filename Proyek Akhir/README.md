@@ -69,7 +69,7 @@ Dashboard menampilkan beberapa insight utama seperti:
 * Pengaruh nilai semester 2 terhadap dropout
 * Pengaruh jumlah mata kuliah lulus semester 1 terhadap dropout
 * Pengaruh jumlah mata kuliah lulus semester 2 terhadap dropout
-* Pengaruh evaluasi akademik semester 2 terhadap dropout
+* Pengaruh pembayaran uang kuliah terhadap dropout
 
 ### Link Dashboard
 
@@ -128,11 +128,11 @@ Hasil feature importance dari model Random Forest menunjukkan bahwa faktor akade
 
 * jumlah mata kuliah lulus,
 * nilai semester,
-* jumlah evaluasi akademik,
+* pembayaran uang kuliah,
 
 merupakan faktor yang paling memengaruhi prediksi dropout mahasiswa.
 
-Model Random Forest yang dibangun berhasil mencapai performa yang cukup baik dengan accuracy sekitar 85%.
+Model Random Forest yang dibangun berhasil mencapai performa yang cukup baik dengan accuracy sekitar 90%.
 
 Business dashboard yang dibuat juga membantu pihak universitas memahami pola dropout secara visual sehingga dapat mendukung pengambilan keputusan yang lebih cepat dan efektif.
 
