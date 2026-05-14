@@ -3,6 +3,6 @@ joblib==1.5.2
 matplotlib
 numpy
 pandas
-scikit_learn
+scikit-learn
 seaborn==0.13.2
 streamlit
